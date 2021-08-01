@@ -1,4 +1,4 @@
-use tests::f;
+use a::f;
 
 fn main() {
     println!("f() = {}", f());
