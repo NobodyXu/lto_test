@@ -1,7 +1,7 @@
 use std::env;
 use std::path::PathBuf;
 use std::fs::canonicalize;
-use std::process::{Command, exit};
+use std::process::Command;
 
 use once_cell::sync::Lazy;
 
